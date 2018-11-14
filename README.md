@@ -1,8 +1,8 @@
 # hello-world
-I'm so excited to be on GIthub!
+Github can help me so much!
+ 
+I can upload technical projects for free to Github now.
 
-It means I can start uploading and versioning my projects online and free now.
-
-It's awesome~~
+It is pleasure to be able to do such things.
 
 
